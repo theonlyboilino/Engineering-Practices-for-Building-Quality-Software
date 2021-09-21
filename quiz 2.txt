@@ -27,7 +27,7 @@ Spacing between elements
 method names should be CamelCase
 
 7. False
-8. { DONT KNOW}
+8. Breakpoint
 9. False
 10. False
 11. False
